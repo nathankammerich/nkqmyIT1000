@@ -7,7 +7,7 @@ _Page 2 (Links)_ \
 [Page 4 (Classes)](page4.md) \
 [Page 5 (About)](page5.md) 
 
-**Helpful Links** 
+Helpful Links 
 
 [github.com](https://github.com/) \
 [google.com](https://google.com/) \
