@@ -1,6 +1,4 @@
-# Nathan Kammerich
-## IT 1000 Final Project
-## 5/3/21
+# Nav Bar
 [Home Page](README.md) \
 ***Page 2 (Links)*** \
 [Page 3 (Images)](page3.md) \
