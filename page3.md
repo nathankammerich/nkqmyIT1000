@@ -3,7 +3,7 @@
 [Page 2 (Links)](page2.md) \
 ***Page 3 (Images)*** \
 [Page 4 (Classes)](page4.md) \
-[Page 5 (About)](page5.md)
+[Page 5 (Code)](page5.md)
 
 # Random Images
 ![google image](google.jpg)
