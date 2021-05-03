@@ -9,6 +9,6 @@ Page 2 (Links) \
 
 # Helpful Links 
 
-[github.com](https://github.com/)
-[google.com](https://google.com/)
+[github.com](https://github.com/) \
+[google.com](https://google.com/) \
 [canvas](https://missouri.instructure.com/)
